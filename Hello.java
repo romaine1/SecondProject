@@ -1,9 +1,9 @@
 //For command line gir_tutorial
 //Local repository modification
-//GitHub modification 
+//GitHub modification
 
 public class Hello{
-	public static void main(String[] arg){
+	public static void main(String[] args){
 		System.out.println("Hello Git");
 		System.out.println("What is Git");
 		System.out.println("That's DVCS");
