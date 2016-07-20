@@ -1,3 +1,6 @@
+//For command line gir_tutorial
+//Local repository modification
+
 public class Hello{
 	public static void main(String[] arg){
 		System.out.println("Hello Git");
